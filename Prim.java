@@ -3,7 +3,8 @@ import java.lang.*;
 import java.io.*;
 class Prim
 {
-public static void main(String[] args) {
+public static void main(String[] args) 
+{
 int num ;
 boolean flag = false;
 System.out.println("");
